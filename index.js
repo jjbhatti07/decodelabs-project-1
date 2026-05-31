@@ -11,7 +11,9 @@ app.use(express.json());
 let products = [
     { id: 1, name: "Laptop", price: 999 },
     { id: 2, name: "Mouse", price: 29 },
-    { id: 3, name: "Keyboard", price: 49 }
+    { id: 3, name: "Keyboard", price: 49 },
+    { id: 2, name: "RAM", price: 55 },
+    { id: 3, name: "Monitor", price: 573 }
 ];
 
 // ============================
